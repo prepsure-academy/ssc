@@ -1,4 +1,4 @@
-# PrepSure SSC
+# PrepSure Academy - SSC
 
 PrepSure is India's leading platform for guidance and preparation for various examinations including SSC, CUET, CLAT, AILETS, UPSC, STATE PSC, CAT and other Exams. PrepSure also focuses on empowering students to explore careers beyond engineering and medicine. Our mission is to illuminate the path to success, fostering awareness and achievement in high-potential fields. With expert resources and comprehensive support, we help students excel in management, humanities, law, judiciary, and design entrance exams.
 
