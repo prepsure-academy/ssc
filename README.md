@@ -6,48 +6,91 @@ Website:
 https://prepsure.academy/
 
 Follow Us:
-https://www.youtube.com/@prepsure.academy
-https://www.facebook.com/prepsure.academy
-https://x.com/prepsureacademy
-https://www.instagram.com/prepsure.academy
-https://www.linkedin.com/company/prepsure-academy
-https://in.pinterest.com/prepsureacademy
+Youtube: https://www.youtube.com/@prepsure.academy
+
+Facebook: https://www.facebook.com/prepsure.academy
+
+X: https://x.com/prepsureacademy
+
+Instagram: https://www.instagram.com/prepsure.academy
+
+Linkedin: https://www.linkedin.com/company/prepsure-academy
+
+Pinterest: https://in.pinterest.com/prepsureacademy
+
 
 Exams:
+
 SSC MTS
+
 SSC CHSL
+
 SSC CGL
+
 SSC GD
+
 SSC CPO
+
 SSC STENOGRAPHER
+
 SSC SELECTION POST
+
 SSC BOOKS
+
 SSC EXAMS BOOKS KIT
+
 SSC MAHA PACK
+
 SSC JHT
+
 BSSC INTER LEVEL
+
 SSC FREE CONTENT
+
 BSSC
+
 BSSC CGL
+
 HSSC CET GROUP C
+
 HSSC CET GROUP D
+
 HSSC JBT
+
 JSSC
+
 JSSC CGL
+
 JSSC STENOGRAPHER
+
 OSSC CGL
+
 OSSSC RI, ARI, AMIN, SFS, ICDS
+
 SSC JE CIVIL ENGINEERING
+
 SSC JE ELECTRICAL ENGINEERING
+
 SSC JE MECHANICAL ENGINEERING
+
 SSC MTS (10TH LEVEL)
+
 TAMIL SSC
+
 TELUGU SSC
+
 UKSSSC 10+2 GROUP C
+
 UKSSSC GROUP C
+
 UKSSSC JUNIOR ASSISTANT
+
 UPSSSC
+
 UPSSSC AG TA
+
 UPSSSC ASSISTANT STOREKEEPER
+
 UPSSSC JE CIVIL ENGINEERING
+
 UPSSSC PET
